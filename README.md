@@ -9,8 +9,8 @@
 
 <div align="center">
 
-  [<img height="170em" src="https://github-readme-stats.vercel.app/api?username=H-Medeiros&theme=highcontrast&border_radius=4&title_color=36BCF7FF&text_color=f2f53f&show_icons=true&icon_color=36BCF7FF"/>](https://github.com/H-Medeiros)
-  [<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Medeiros&theme=highcontrast&title_color=36BCF7FF&text_color=f2f53f&icon_color=36BCF7FF&layout=compact&border_radius=4"/>](https://github.com/H-Medeiros)
+  [<img height="150em" src="https://github-readme-stats.vercel.app/api?username=H-Medeiros&theme=highcontrast&border_radius=4&title_color=36BCF7FF&text_color=f2f53f&show_icons=true&icon_color=36BCF7FF"/>](https://github.com/H-Medeiros)
+  [<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Medeiros&theme=highcontrast&title_color=36BCF7FF&text_color=f2f53f&icon_color=36BCF7FF&layout=compact&border_radius=4"/>](https://github.com/H-Medeiros)
 
 
 </div>
