@@ -18,7 +18,7 @@
   <p align="justify">
     🧀Brasileiro, Bh é meu país.🔺<br>
     ♨️ I'm a student developer, I really like Java.🌳 <br>
-    🧑‍💻Now I'm studying Java, English and Japanese. But I'm always looking for more technologies.💼<br>
+    🧑‍💻Now I'm studying Java, English and Japanese. But I'm always looking for technologies.💼<br>
   </p>
   
 <div align="right">
