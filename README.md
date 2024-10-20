@@ -49,7 +49,7 @@
 
 <div align="right">
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=FFFFFF&repeat=false&width=150&lines=For+the+Horde+%E2%9A%94%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=FFFFFF&width=150&lines=For+the+Horde+%E2%9A%94%EF%B8%8F" alt="Typing SVG" /></a>
   
 </div>
 
