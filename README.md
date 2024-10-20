@@ -12,15 +12,15 @@
   [<img height="180em" src="https://github-readme-stats.vercel.app/api?username=H-Medeiros&theme=highcontrast&border_radius=4&title_color=36BCF7FF&text_color=f2f53f&show_icons=true&icon_color=36BCF7FF"/>](https://github.com/H-Medeiros)
   [<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Medeiros&theme=highcontrast&title_color=36BCF7FF&text_color=f2f53f&icon_color=36BCF7FF&layout=compact&border_radius=4"/>](https://github.com/H-Medeiros)
 
+
 </div>
 
   <p align="justify">
-    ♨️ I'm a student developer, I really like Java and I'm always looking to learn more.<br>
-    Now I'm studying Java, English, Japanese. But I'm always looking for more technologies.<br>
+    🧀Brasileiro, Bh é meu país.🔺<br>
+    ♨️ I'm a student developer, I really like Java.🌳 <br>
+    🧑‍💻Now I'm studying Java, English and Japanese. But I'm always looking for more technologies.💼<br>
   </p>
   
-  <h3 align="left"></h3>
-
 <div align="right">
   
   [![Instragram](https://img.shields.io/badge/Instagram-2f213c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/paulo.medeiross)
@@ -43,7 +43,9 @@
 
 
 
-## 
+<div align="right">
+POE is the best Game
+</div>
 
 
 <!--
