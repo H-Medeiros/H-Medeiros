@@ -14,7 +14,15 @@
 
 
 </div>
+<div align="center">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
 
+<br>
   <p align="justify">
     🧀Brasileiro, Bh é meu país.🔺<br>
     ♨️ I'm a student developer, 🍃 I really like Java.🌳 <br>
@@ -24,7 +32,7 @@
     ❄️My favorite game is Path of Exile💣. And I like lasagna.
     
   </p>
-  
+  <br>
 <div align="right">
   
   [![Instragram](https://img.shields.io/badge/Instagram-2f213c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/paulo.medeiross)
@@ -37,13 +45,6 @@
 
 
 
-<div align="center">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
 
 
 
