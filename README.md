@@ -17,8 +17,12 @@
 
   <p align="justify">
     🧀Brasileiro, Bh é meu país.🔺<br>
-    ♨️ I'm a student developer, I really like Java.🌳 <br>
-    🧑‍💻Now I'm studying Java, English and Japanese. But I'm always looking for technologies.💼<br>
+    ♨️ I'm a student developer, 🍃 I really like Java.🌳 <br>
+    🖥️Now I'm studying Java, English and Japanese. But I'm always looking for technologies.<br>
+    ✈️Six years in the Brazilian Air Force <br>
+    🍕One year as a pizza maker,👷 one as a bricklayer's assistant and 💼 one as an administrative assistant.<br>
+    ❄️My favorite game is Path of Exile💣. And I like lasagna.
+    
   </p>
   
 <div align="right">
@@ -44,7 +48,7 @@
 
 
 <div align="right">
-POE is the best Game
+For the Horde ⚔️
 </div>
 
 
